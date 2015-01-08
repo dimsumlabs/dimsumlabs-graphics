@@ -1,2 +1,2 @@
-# Branding pack 
-This repo contains sourcefiles (vectors/bitmaps) along with compressed files that you can readily use without haing to open an image editing software.
+# Branding and design area  
+Where all Dimsumlabs 2D & 3D source files live
